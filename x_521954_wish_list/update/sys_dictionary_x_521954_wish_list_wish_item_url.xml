@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-15 05:37:45</sys_created_on>
-        <sys_id>468873a6db3b90101710ab7dca9619bb</sys_id>
+        <sys_id>c2489cfedb7b90101710ab7dca9619d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>URL</sys_name>
         <sys_package display_value="Wish List" source="x_521954_wish_list">c6c667a6dbf790101710ab7dca961923</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Wish List">c6c667a6dbf790101710ab7dca961923</sys_scope>
         <sys_update_name>sys_dictionary_x_521954_wish_list_wish_item_url</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-15 05:37:45</sys_updated_on>
+        <sys_updated_on>2020-10-15 07:54:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
